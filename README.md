@@ -8,6 +8,9 @@
 - [PVD](PVD.md) - 물리 기상 증착
 - [XPS](XPS.md) - XPS 분석
 - [Etching](Etching.md) - 식각 공정
+- [Lithography](Lithography.md) - 리소그래피
+- [CMP](CMP.md) - 화학적 기계 연마
+- [IonImplantation](IonImplantation.md) - 이온주입
 - [부트캠프](부트캠프.md) - TC 본딩 DOE 경험
 
 ## 공부 현황
@@ -16,5 +19,6 @@
 - PVD ✅
 - XPS 분석 ✅
 - 식각 공정 ✅
-- TC 본딩 DOE ✅
-- 리소그래피 (예정)
+- 리소그래피 ✅
+- CMP ✅
+- 이온주입 ✅
