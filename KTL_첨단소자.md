@@ -26,9 +26,9 @@
 
 | 자격·인증 | 발급 | 등급 / 결과 |
 |---|---|---|
-| ISO 9001:2015 QMS 선임심사원 (Lead Auditor) | KTL / PCAA, 2026.10.19 | Competent (QMS·AMS 역량 인증) |
-| 품질경영엔지니어 (QME) | KTL / PCAA, 2026.09.28 | Quality Engineer 등급 합격 |
-| Six Sigma Green Belt (6GB) | KTL | DMAIC 프로젝트 수행 |
+| Six Sigma Green Belt (6GB) | KTL, 2026.08.14 (인증번호: 6GB-PS26-00222) | Competent |
+| 품질경영엔지니어 (QME) | KTL / PCAA, 2026.09.28 (인증번호: QME-PS26-00114) | Quality Engineer 등급 합격 |
+| ISO 9001:2015 QMS 선임심사원 (Lead Auditor) | KTL / PCAA, 2026.10.19 (인증번호: QMS-PS26-01018) | Competent (QMS·AMS 역량 인증) |
 
 ## Six Sigma GB — DMAIC 프로젝트 (현대자동차 FCA 리콜 대상 팀 프로젝트)
 
