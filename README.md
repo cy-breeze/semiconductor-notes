@@ -16,7 +16,7 @@
 - [경험_공정실습](경험_공정실습.md) - 오산대학교 반도체 공정 실습
 - [경험_회로설계](경험_회로설계.md) - 눈으로 하는 반도체 회로 설계 (K-Digital)
 - [패키징](패키징.md) - 와이어본딩/플립칩/TSV/HBM/TC본딩/DOE/Ppk
-- [KTL_첨단소자](KTL_첨단소자.md) - 한국산업기술시험원 첨단소자 전문가 양성과정 (Six Sigma DMAIC 포함)
+- [KTL_첨단소자](KTL_첨단소자.md) - 한국산업기술시험원 첨단소자 전문가 양성과정 K-Digital Training 400h 수료 (ISO 9001 선임심사원·QME·6GB 인증 포함)
 - [SPTA_MOSFET_실습](SPTA_MOSFET_실습.md) - MOSFET 직접 제작·측정 실습 (4일, 공정 흐름/불량 분석/PFMEA)
 
 ## 공부 현황
